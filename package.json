@@ -1,6 +1,6 @@
 {
     "name": "test",
     "scripts": {
-        "build": "touch test.html"
+        "build": "cp src/index.html public_dir/index.html"
     }
 }

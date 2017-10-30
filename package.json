@@ -1,0 +1,6 @@
+{
+    "name": "test",
+    "scripts": {
+        "build": "touch test.html"
+    }
+}

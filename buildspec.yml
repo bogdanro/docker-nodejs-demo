@@ -18,3 +18,4 @@ phases:
 artifacts:
   files:
     - public_dir/*.html
+  discard-paths: yes
